@@ -38,6 +38,8 @@ The official Mode documentation can be accessed [here](https://docs.mode.network
 | [Youtube link](https://loogi.notion.site/How-to-Register-Smart-contract-to-the-SFS-using-Hardhat-bfdb929e139e42208adb15436ed9422b?pvs=4) | Register a smart contract to the SFS with Hardhat | A Video tutorial showing how to register a smart contract to the Mode Network using hardhat. | Joshua Omobola |
 | [Youtube link](https://loogi.notion.site/Mode-Mainnet-Promotional-Video-7a4c0ebbdfbb4955b919ac0de3acfd67?pvs=4) | Video Reel for the Mode Mainnet Launch | A Video reel promoting the Mainnet Launch and encouraging folks to participate | Joshua Omobola |
 | [Google Docs Link](https://docs.google.com/document/d/1Ywe832FIs-c9O79PDnZXtXi2vru-41eA6LgPxCGk898/edit?usp=sharing)   |    How To Register a Smart Contract to the SFS with Foundry    |     In this tutorial, you’ll learn how to register our smart contract to the Mode SFS contract with Foundry.        |      Revealer      |                                                              |                         |                            |             |
+| [Google Docs Link](https://docs.google.com/document/d/1YqQt8lH22cUnRQn29cVcUL87QgYxb0ggJKoH9YdGpoY/edit?usp=sharing)   |    Gelato Relay on Mode |  Gelato is an all-in-one Ethereum Rollup-as-a-Service (RaaS) platform built without limits.    |      Revealer      |                                                              |                         |                            |             |
+
 
 ## Developer Resources
 
